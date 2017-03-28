@@ -7,6 +7,8 @@
 结合自身项目需求，修复了一些bug，增加了一些新功能
 具体请看[Demo](https://wuyaoxing.github.io/calendar/)和源码
 
+[](https://github.com/wuyaoxing/vue-calendar/blob/master/src/assets/calendar.png)
+
 ## Build Setup
 
 ``` bash
@@ -21,7 +23,7 @@ npm run build
 
 ```
 
-TODO
+## TODO
 日历插件还需要完善
 - 滚动切换目前使用的是直接控制scrollTop的值，本来打算使用jquery的动画去做，考虑到目前的流行趋势便作罢，目前正在寻求新的解决方案。
 - 滚动和切换时会出现当月日历不在正中央，这个问题依赖于滚动动画，目前的js算法可能存在问题，上一个问题解决后这个问题便迎刃而解了。
