@@ -7,7 +7,7 @@
 结合自身项目需求，修复了一些bug，增加了一些新功能
 具体请看[Demo](https://wuyaoxing.github.io/calendar/)和源码
 
-[](https://github.com/wuyaoxing/vue-calendar/blob/master/src/assets/calendar.png)
+![Alt calendar](https://github.com/wuyaoxing/vue-calendar/blob/master/src/assets/calendar.png "calendar")
 
 ## Build Setup
 
