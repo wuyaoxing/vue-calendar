@@ -4,7 +4,7 @@
 
 这是一个基于vue2.0仿 Trello 滚动切换日历的Demo。
 参考了github的项目（https://github.com/diaocheng/calendar）
-结合自己项目需求，修复了一些bug，增加了一些新功能
+结合自身项目需求，修复了一些bug，增加了一些新功能
 具体请看[Demo](https://wuyaoxing.github.io/calendar/)和源码
 
 ## Build Setup
@@ -19,16 +19,6 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-# run all tests
-npm test
 ```
 
 TODO
